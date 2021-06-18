@@ -9,7 +9,9 @@ Esta sección será desarrollada posteriormente
 ==Créditos==
 
 Este trabajo es original del alumno Guillermo Sánchez Estrada.
+
 Universidad TecMilenio, Carrera Ingeniero en Computación Administrativa.
+
 Matricula 2911468
 
 ==Licencia==
